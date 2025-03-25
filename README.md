@@ -4,7 +4,7 @@
          background-color:
 }
 </style>
-  <body>
+  <body> 
      <h1>I am amazing</h1>
 </body>
 
